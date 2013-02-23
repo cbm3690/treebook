@@ -3,3 +3,9 @@ cory:
     last_name: "Mikell"
     email: "cory.mikell@gmail.com"
     profile_name: "corymikell"
+
+jim:
+    first_name: "Jim"
+    last_name: "Hoskins"
+    email: "jim@teamtreehouse.com"
+    profile_name: "jimhoskins"
